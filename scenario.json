@@ -1,0 +1,15 @@
+{
+    "nom": "Premiere video ever",
+    "titre": {
+        "texte": ["Ceci est et restera", "la premiere video créée", "par ce nouvel outil"],
+        "duree": 5
+    },
+    "liste_segments": [
+        {
+            "type": "clip",
+            "source": "test.mp4",
+            "debut": 0,
+            "fin": 4
+        }
+    ]
+}
